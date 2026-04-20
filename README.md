@@ -1,0 +1,34 @@
+<p align="center">
+  <h1 align="center">Health Care Markets Replication Packages</h1>
+  <p align="center">
+    A curated collection of replication code and datasets for papers in health care markets, medical devices, and regulation.
+  </p>
+</p>
+
+---
+
+## 🌟 Why This Repo
+
+This repository is meant to make replication work in health care markets more accessible by providing a centralized collection of datasets and code.
+
+It is especially useful for:
+
+- researchers studying health care markets and regulation  
+- students working on health economics  
+- instructors building replication-based coursework  
+
+---
+
+## 📦 Replication Packages
+
+| Authors | Paper | Journal | Year | Package |
+|--------|-------|---------|------|---------|
+| Matthew Grennan | *Price Discrimination and Bargaining: Empirical Evidence from Medical Devices* | *American Economic Review* | 2013 | [Open](https://doi.org/10.3886/E112586V1) |
+| Matthew Grennan, Robert Town | *Regulating Innovation with Uncertain Quality: Information, Risk, and Access in Medical Devices* | *American Economic Review* | 2019 | [Open](https://doi.org/10.3886/e231417v1) |
+
+---
+
+## Additional Information
+
+Our private repository contains additional code and datasets from research papers related to **health care markets**, **energy and environmental markets**, **demand estimation**, **digital markets**, **auctions**, and **vertical markets**, along with other conference topics.  
+Please complete the conference access form to request entry.
