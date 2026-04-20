@@ -24,10 +24,10 @@ It is especially useful for:
 | Authors | Paper | Journal | Year | Package |
 |--------|-------|---------|------|---------|
 | Matthew Grennan | *Price Discrimination and Bargaining: Empirical Evidence from Medical Devices* | *American Economic Review* | 2013 | [Open](https://doi.org/10.3886/E112586V1) |
-| Abhijit Banerjee, Esther Duflo, Richard Hornbeck | *Bundling Health Insurance and Microfinance in India: There Cannot be Adverse Selection if There Is No Demand* | *American Economic Review* | 2014 | [Open](https://doi.org/10.3886/E112788V1) |
-| Matthew Grennan, Robert Town | *Regulating Innovation with Uncertain Quality: Information, Risk, and Access in Medical Devices* | *American Economic Review* | 2019 | [Open](https://doi.org/10.3886/e231417v1) |
 | Liran Einav, Amy Finkelstein, Stephen P Ryan, Paul Schrimpf, Mark R Cullen | *Selection on Moral Hazard in Health Insurance* | *American Economic Review* | 2013 | [Open](https://www.openicpsr.org/openicpsr/project/112587/version/V1/view) |
+| Abhijit Banerjee, Esther Duflo, Richard Hornbeck | *Bundling Health Insurance and Microfinance in India: There Cannot be Adverse Selection if There Is No Demand* | *American Economic Review* | 2014 | [Open](https://doi.org/10.3886/E112788V1) |
 | Amitabh Chandra, Amy Finkelstein, Adam Sacarny, Chad Syverson | *Health Care Exceptionalism? Performance and Allocation in the US Health Care Sector* | *American Economic Review* | 2016 | [Open](https://www.openicpsr.org/openicpsr/project/113083/version/V1/view) |
+| Matthew Grennan, Robert Town | *Regulating Innovation with Uncertain Quality: Information, Risk, and Access in Medical Devices* | *American Economic Review* | 2019 | [Open](https://doi.org/10.3886/e231417v1) |
 | Vilsa Curto, Liran Einav, Amy Finkelstein, Jonathan Levin, Jay Bhattacharya | *Health Care Spending and Utilization in Public and Private Medicare* | *American Economic Journal: Applied Economics* | 2019 | [Open](https://www.openicpsr.org/openicpsr/project/113726/version/V1/view) |
 | Liran Einav, Amy Finkelstein, Tamar Oostrom, Abigail Ostriker, Heidi Williams | *Screening and Selection: The Case of Mammograms* | *American Economic Review* | 2020 | [Open](https://www.openicpsr.org/openicpsr/project/120217/version/V1/view) |
 
