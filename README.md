@@ -26,6 +26,7 @@ It is especially useful for:
 | Matthew Grennan | *Price Discrimination and Bargaining: Empirical Evidence from Medical Devices* | *American Economic Review* | 2013 | [Open](https://doi.org/10.3886/E112586V1) |
 | Matthew Grennan, Robert Town | *Regulating Innovation with Uncertain Quality: Information, Risk, and Access in Medical Devices* | *American Economic Review* | 2019 | [Open](https://doi.org/10.3886/e231417v1) |
 | Amitabh Chandra, Amy Finkelstein, Adam Sacarny, Chad Syverson | *Health Care Exceptionalism? Performance and Allocation in the US Health Care Sector* | *American Economic Review* | 2016 | [Open](https://www.openicpsr.org/openicpsr/project/113083/version/V1/view) |
+| Amitabh Chandra, Amy Finkelstein, Adam Sacarny, Chad Syverson | *Productivity Dispersion in Medicine and Manufacturing* | *American Economic Review* | 2016 | [Open](https://www.openicpsr.org/openicpsr/project/113445/version/V1/view) |
 
 ---
 
