@@ -13,7 +13,7 @@ This repository is meant to make replication work in health care markets more ac
 
 It is especially useful for:
 
-- researchers studying health care markets and regulation  
+- researchers studying health care markets  
 - students working on health economics  
 - instructors building replication-based coursework  
 
@@ -30,5 +30,5 @@ It is especially useful for:
 
 ## Additional Information
 
-Our private repository contains additional code and datasets from research papers related to **health care markets**, **energy and environmental markets**, **demand estimation**, **digital markets**, **auctions**, and **vertical markets**, along with other conference topics.  
-Please complete the conference access form to request entry.
+Our private repository contains additional code and datasets from research papers related to **health care markets**.  
+Please complete the access form to request entry.
