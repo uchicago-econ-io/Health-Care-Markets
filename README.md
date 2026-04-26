@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">Health Care Markets Replication Packages</h1>
   <p align="center">
-    A curated collection of replication code and datasets for papers in health care markets, medical devices, and regulation.
+    A curated collection of replication code and datasets for papers in health care markets.
   </p>
 </p>
 
@@ -10,12 +10,6 @@
 ## 🌟 Why This Repo
 
 This repository is meant to make replication work in health care markets more accessible by providing a centralized collection of datasets and code.
-
-It is especially useful for:
-
-- researchers studying health care markets  
-- students working on health economics  
-- instructors building replication-based coursework  
 
 ---
 
