@@ -23,6 +23,7 @@ It is especially useful for:
 
 | Authors | Paper | Journal | Year | Package |
 |--------|-------|---------|------|---------|
+| Amy Finkelstein, Kathleen McGarry | *Multiple Dimensions of Private Information: Evidence from the Long-Term Care Insurance Market* | *American Economic Review* | 2006 | [Open](https://doi.org/10.3886/E116237V1) |
 | Matthew Grennan | *Price Discrimination and Bargaining: Empirical Evidence from Medical Devices* | *American Economic Review* | 2013 | [Open](https://doi.org/10.3886/E112586V1) |
 | Liran Einav, Amy Finkelstein, Stephen P Ryan, Paul Schrimpf, Mark R Cullen | *Selection on Moral Hazard in Health Insurance* | *American Economic Review* | 2013 | [Open](https://www.openicpsr.org/openicpsr/project/112587/version/V1/view) |
 | Abhijit Banerjee, Esther Duflo, Richard Hornbeck | *Bundling Health Insurance and Microfinance in India: There Cannot be Adverse Selection if There Is No Demand* | *American Economic Review* | 2014 | [Open](https://doi.org/10.3886/E112788V1) |
