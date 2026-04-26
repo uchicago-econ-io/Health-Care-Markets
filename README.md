@@ -32,6 +32,7 @@ It is especially useful for:
 | Liran Einav, Amy Finkelstein, Tamar Oostrom, Abigail Ostriker, Heidi Williams | *Screening and Selection: The Case of Mammograms* | *American Economic Review* | 2020 | [Open](https://www.openicpsr.org/openicpsr/project/120217/version/V1/view) |
 | Michael J. Dickstein, Mark Duggan, Joe Orsini, Pietro Tebaldi | *The Impact of Market Size and Composition on Health Insurance Premiums: Evidence from the First Year of the Affordable Care Act* | *American Economic Review* | 2015 | [Open](https://www.openicpsr.org/openicpsr/project/113406/version/V1/view) |
 | Pietro Tebaldi | *Equilibrium in Health Insurance Exchanges* | *Review of Economic Studies* | 2024 | [Open](https://zenodo.org/records/10456091) |
+| Tuba Tunçel | *Should We Prevent Off-Label Drug Prescriptions? Empirical Evidence from France* | *The Review of Economic Studies* | 2025 | [Open](https://zenodo.org/records/10459739) |
 | Benjamin Vatter | *Quality Disclosure and Regulation: Scoring Design in Medicare Advantage* | *Econometrica* | 2025 | [Open](https://zenodo.org/records/14794937) |
 
 
