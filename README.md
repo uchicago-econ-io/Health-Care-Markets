@@ -28,18 +28,18 @@ This repository is meant to make replication work in health care markets more ac
 | Michael J. Dickstein, Mark Duggan, Joe Orsini, Pietro Tebaldi | *The Impact of Market Size and Composition on Health Insurance Premiums: Evidence from the First Year of the Affordable Care Act* | *American Economic Review* | 2015 | [Open](https://www.openicpsr.org/openicpsr/project/113406/version/V1/view) |
 | Amitabh Chandra, Amy Finkelstein, Adam Sacarny, Chad Syverson | *Health Care Exceptionalism? Performance and Allocation in the US Health Care Sector* | *American Economic Review* | 2016 | [Open](https://www.openicpsr.org/openicpsr/project/113083/version/V1/view) |
 | Matthew Grennan, Robert Town | *Regulating Innovation with Uncertain Quality: Information, Risk, and Access in Medical Devices* | *American Economic Review* | 2019 | [Open](https://doi.org/10.3886/e231417v1) |
-| Vilsa Curto, Liran Einav, Amy Finkelstein, Jonathan Levin, Jay Bhattacharya | *Health Care Spending and Utilization in Public and Private Medicare* | *American Economic Journal: Applied Economics* | 2019 | [Open](https://www.openicpsr.org/openicpsr/project/113726/version/V1/view) |
 | Liran Einav, Amy Finkelstein, Tamar Oostrom, Abigail Ostriker, Heidi Williams | *Screening and Selection: The Case of Mammograms* | *American Economic Review* | 2020 | [Open](https://www.openicpsr.org/openicpsr/project/120217/version/V1/view) |
 | Pietro Tebaldi | *Equilibrium in Health Insurance Exchanges* | *Review of Economic Studies* | 2024 | [Open](https://zenodo.org/records/10456091) |
 | Tuba Tunçel | *Should We Prevent Off-Label Drug Prescriptions? Empirical Evidence from France* | *The Review of Economic Studies* | 2025 | [Open](https://zenodo.org/records/10459739) |
 | Benjamin Vatter | *Quality Disclosure and Regulation: Scoring Design in Medicare Advantage* | *Econometrica* | 2025 | [Open](https://zenodo.org/records/14794937) |
 
 
-## 
+## Other
 
 | Authors | Paper | Journal | Year | Package |
 |--------|-------|---------|------|---------|
 | Ginger Zhe Jin, Phillip Leslie | *Reputational Incentives for Restaurant Hygiene* | *American Economic Journal: Microeconomics* | 2009 | [Open](https://doi.org/10.3886/E114314V1) |
+| Vilsa Curto, Liran Einav, Amy Finkelstein, Jonathan Levin, Jay Bhattacharya | *Health Care Spending and Utilization in Public and Private Medicare* | *American Economic Journal: Applied Economics* | 2019 | [Open](https://www.openicpsr.org/openicpsr/project/113726/version/V1/view) |
 | Bradley Shapiro | *Promoting Wellness or Waste? Evidence from Antidepressant Advertising* | *American Economic Journal: Microeconomics* | 2022 | [Open](https://doi.org/10.3886/E117370V1) |
 | Luca Maini, Fabio Pammolli | *Reference Pricing as a Deterrent to Entry: Evidence from the European Pharmaceutical Market* | *American Economic Journal: Microeconomics* | 2023 | [Open](https://doi.org/10.3886/E160781V1) |
 
