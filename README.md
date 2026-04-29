@@ -15,6 +15,9 @@ This repository is meant to make replication work in health care markets more ac
 
 ## 📦 Replication Packages
 
+## Top 5
+
+
 | Authors | Paper | Journal | Year | Package |
 |--------|-------|---------|------|---------|
 | Amy Finkelstein, Kathleen McGarry | *Multiple Dimensions of Private Information: Evidence from the Long-Term Care Insurance Market* | *American Economic Review* | 2006 | [Open](https://doi.org/10.3886/E116237V1) |
@@ -31,6 +34,14 @@ This repository is meant to make replication work in health care markets more ac
 | Tuba Tunçel | *Should We Prevent Off-Label Drug Prescriptions? Empirical Evidence from France* | *The Review of Economic Studies* | 2025 | [Open](https://zenodo.org/records/10459739) |
 | Benjamin Vatter | *Quality Disclosure and Regulation: Scoring Design in Medicare Advantage* | *Econometrica* | 2025 | [Open](https://zenodo.org/records/14794937) |
 
+
+## 
+
+| Authors | Paper | Journal | Year | Package |
+|--------|-------|---------|------|---------|
+| Ginger Zhe Jin, Phillip Leslie | *Reputational Incentives for Restaurant Hygiene* | *American Economic Journal: Microeconomics* | 2009 | [Open](https://doi.org/10.3886/E114314V1) |
+| Bradley Shapiro | *Promoting Wellness or Waste? Evidence from Antidepressant Advertising* | *American Economic Journal: Microeconomics* | 2022 | [Open](https://doi.org/10.3886/E117370V1) |
+| Luca Maini, Fabio Pammolli | *Reference Pricing as a Deterrent to Entry: Evidence from the European Pharmaceutical Market* | *American Economic Journal: Microeconomics* | 2023 | [Open](https://doi.org/10.3886/E160781V1) |
 
 
 
