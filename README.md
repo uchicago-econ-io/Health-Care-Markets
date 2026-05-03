@@ -37,6 +37,7 @@ This repository is meant to make replication work in health care markets more ac
 
 | Authors | Paper | Journal | Year | Package |
 |--------|-------|---------|------|---------|
+| Antara Dutta | *From Free Entry to Patent Protection: Welfare Implications for the Indian Pharmaceutical Industry* | Review of Economics and Statistics | 2011 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/CVK22Q) |
 | Michael L. Anderson; Carlos Dobkin; Tal Gross | *The Effect of Health Insurance on Emergency Department Visits: Evidence from an Age-Based Eligibility Threshold* | Review of Economics and Statistics | 2014 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/25506) |
 | Silvia Appelt | *Authorized Generic Entry prior to Patent Expiry: Reassessing Incentives for Independent Generic Entry* | Review of Economics and Statistics | 2015 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/28641) |
 | Darius Lakdawalla; Wesley Yin | *Insurers’ Negotiating Leverage and the External Effects of Medicare Part D* | Review of Economics and Statistics | 2015 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/28817) |
