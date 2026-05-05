@@ -66,6 +66,7 @@ This repository is meant to make replication work in health care markets more ac
 |--------|-------|---------|------|---------|
 | Ginger Zhe Jin, Phillip Leslie | *Reputational Incentives for Restaurant Hygiene* | *American Economic Journal: Microeconomics* | 2009 | [Open](https://doi.org/10.3886/E114314V1) |
 | Vilsa Curto, Liran Einav, Amy Finkelstein, Jonathan Levin, Jay Bhattacharya | *Health Care Spending and Utilization in Public and Private Medicare* | *American Economic Journal: Applied Economics* | 2019 | [Open](https://www.openicpsr.org/openicpsr/project/113726/version/V1/view) |
+| Steve Cicala, Ethan M. J. Lieber, Victoria Marone | *Regulating Markups in US Health Insurance* | *American Economic Journal: Applied Economics* | 2019 | [Open](https://www.openicpsr.org/openicpsr/project/116367/version/V1/view) |
 | Bradley Shapiro | *Promoting Wellness or Waste? Evidence from Antidepressant Advertising* | *American Economic Journal: Microeconomics* | 2022 | [Open](https://doi.org/10.3886/E117370V1) |
 | Luca Maini, Fabio Pammolli | *Reference Pricing as a Deterrent to Entry: Evidence from the European Pharmaceutical Market* | *American Economic Journal: Microeconomics* | 2023 | [Open](https://doi.org/10.3886/E160781V1) |
 
